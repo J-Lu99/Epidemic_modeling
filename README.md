@@ -7,7 +7,7 @@ Here you can find (see the index in the file):
 - Modeling of different types of epidemics
 - Modeling algorithms.
 - Fundamentals of graph programming.
-- Network epidemics
+- Network epidemics.
 - Specific tools for modeling epidemics in Python.
 - Comparisons with analytical results.
 - Real application programming.
